@@ -71,8 +71,8 @@ This project requires no external dependencies or build processes.
 
 💡 Future Development Plan
 
-    Integrate JavaScript to add client-side interactivity, dynamic content loading, and form validation.
+   - Integrate JavaScript to add client-side interactivity, dynamic content loading, and form validation.
 
-    Explore transitioning the static components into a modern framework (like React or Angular) to gain component-based development experience.
+   - Explore transitioning the static components into a modern framework (like React or Angular) to gain component-based development experience.
 
 ---
