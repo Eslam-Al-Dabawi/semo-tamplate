@@ -65,7 +65,7 @@ This project requires no external dependencies or build processes.
     cd semo-tamplate
     ```
 
-3. Run: Open index.html in your web browser.
+3. Run: Open `index.html` in your web browser.
 
 ---
 
